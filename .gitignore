@@ -1,0 +1,21 @@
+# Variables de entorno y claves privadas
+.env
+.env*.local
+
+# Dependencias
+node_modules/
+
+# Archivos de compilación / build
+dist/
+build/
+
+# Archivos de registros y logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Sistema operativo y configuración de editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
